@@ -48,7 +48,7 @@ I'm always eager to learn and stay updated with the latest web development trend
 
 ## 🤝 Let's Connect
 
-I'm open to collaborations and discussions. Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sutanarief/))
+I'm open to collaborations and discussions. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sutanarief/)
 
 Happy coding! 🚀
 <!--
